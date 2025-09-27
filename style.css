@@ -6,7 +6,7 @@ body {
 }
 header {
   background: #0047AB;
-  color: white;
+  color: red;
   padding: 15px 40px;
   display: flex;
   justify-content: space-between;
